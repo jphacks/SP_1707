@@ -2,7 +2,7 @@
 
 [![Product Name](https://github.com/jphacks/SP_1707/blob/master/icon.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)　　
 
-完成してないので動画はありません
+動画はありません
 
 ## 製品概要
 ### 方位磁石 Tech
