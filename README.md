@@ -1,6 +1,6 @@
 # MapCompass
 
-[![Product Name](https://github.com/jphacks/SP_1707/blob/master/gazou.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)　　
+[![Product Name](https://github.com/jphacks/SP_1707/blob/master/icon.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)　　
 
 完成してないので動画はありません
 
